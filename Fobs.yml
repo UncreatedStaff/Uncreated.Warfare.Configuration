@@ -2,6 +2,7 @@ FobDeployDelay: 7
 MaxNumberOfFobs: 10
 MinDistanceBetweenFobs: 150
 MinFobDistanceFromMain: 120
+SupplyCrateMaxDropHeight: 150
 SupplyCrates:
   - SupplyItemAsset: a2eb76590cf74401aeb7ff4b4b79fd86
     Type: FobCreation
