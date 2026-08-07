@@ -22,6 +22,6 @@ Trunk:
     Y: 0
     Rotation: 1
   - Item: a2eb76590cf74401aeb7ff4b4b79fd86 # Large Supply Crate
-    X: 0
-    Y: 8
-    Rotation: 0
+    X: 5
+    Y: 0
+    Rotation: 1
