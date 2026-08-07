@@ -27,11 +27,11 @@ Rearm:
     - 5b2ca432d9ac496ca0a909501ecc45ae
     - 5b2ca432d9ac496ca0a909501ecc45ae
 Trunk:
-  - Item: 5c88dbd8e81444678f0f3a653f3e7e5d
+  - Item: 5c88dbd8e81444678f0f3a653f3e7e5d # Medium Ammunition Crate
     X: 0
     Y: 0
     Rotation: 0
-  - Item: 5c88dbd8e81444678f0f3a653f3e7e5d
+  - Item: 5c88dbd8e81444678f0f3a653f3e7e5d # Medium Ammunition Crate
     X: 4
     Y: 0
     Rotation: 0

@@ -17,27 +17,27 @@ Rearm:
   AmmoConsumed: 0
   Items: []
 Trunk:
-  - Item: a2eb76590cf74401aeb7ff4b4b79fd86
+  - Item: a2eb76590cf74401aeb7ff4b4b79fd86 # Large Supply Crate
     X: 0
     Y: 0
     Rotation: 1
-  - Item: a2eb76590cf74401aeb7ff4b4b79fd86
+  - Item: a2eb76590cf74401aeb7ff4b4b79fd86 # Large Supply Crate
     X: 0
     Y: 8
     Rotation: 0
-  - Item: de94da4a993e4ebdbfd56d6e73d0af78
+  - Item: de94da4a993e4ebdbfd56d6e73d0af78 # Large Ammo Crate
     X: 5
     Y: 0
     Rotation: 0
-  - Item: de94da4a993e4ebdbfd56d6e73d0af78
+  - Item: de94da4a993e4ebdbfd56d6e73d0af78 # Large Ammo Crate
     X: 10
     Y: 0
     Rotation: 0
-  - Item: de94da4a993e4ebdbfd56d6e73d0af78
+  - Item: de94da4a993e4ebdbfd56d6e73d0af78 # Large Ammo Crate
     X: 5
     Y: 4
     Rotation: 0
-  - Item: de94da4a993e4ebdbfd56d6e73d0af78
+  - Item: de94da4a993e4ebdbfd56d6e73d0af78 # Large Ammo Crate
     X: 10
     Y: 4
     Rotation: 0
